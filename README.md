@@ -4,6 +4,18 @@ This simple but elegant application allows the user to click on each of the pict
 
 This project helped me to better understand the basics of transitioning/translating elements on a page through usage of "this" properties.
 
+## Main page:
+
+![Main](https://i.imgur.com/pPn3zTY.png?1 'Main')
+
+## Middle panel opened:
+
+![Middle](https://i.imgur.com/1zjqmat.png?1 'Middle')
+
+## Two panels opened:
+
+![Two](https://i.imgur.com/jGEbFO1.png?1 'Two')
+
 ### Credits
 
 This project was created with help from Wes Bos, whose website can be found [here](https://wesbos.com/).
