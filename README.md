@@ -1,4 +1,4 @@
-# Practice With CSS Flex Panels
+# Practice with CSS Flex Panels
 
 This simple but elegant application allows the user to click on each of the picture panels to expand them and display the differing messages therein. Once the user clicks on a different panel while one is opened, the newly-opened panel will "share" the existing space and in turn each of the panels will be displayed with equal sizing proportions respectively. The script to grant this functionality is quite simple, only requiring two functions with their corresponding event listeners in order to toggle the necessary CSS properties.
 
